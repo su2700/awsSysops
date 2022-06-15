@@ -17,9 +17,6 @@ A System Administrator finds the ReplicaLag metric is high. What effect would a 
 
 
 ```
-
-
-
 <details>
 <summary>see answer</summary>
 <pre><code>
