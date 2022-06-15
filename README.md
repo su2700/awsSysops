@@ -13,13 +13,14 @@ A System Administrator finds the ReplicaLag metric is high. What effect would a 
 
 - [] d: Customer purchase order request would be slow and may time out 
 
+
+
+
+```
+
 <details>
 <summary>see answer</summary>
 <pre><code>
 System.out.println("Hello to see U!");
 </code></pre>
 </details>
-
-
-```
-
