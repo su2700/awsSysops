@@ -21,6 +21,8 @@ A System Administrator finds the ReplicaLag metric is high. What effect would a 
 <details>
 <summary>see answer</summary>
 <pre><code>
-System.out.println("Hello to see U!");
+
+Correct answer is B 
+As the read replica is not able to keep up with the master, the items shown in the shopping site may not be the complete list from master. Refer AWS documentation - Aurora Replication Read scaling and high availability depend on minimal lag time. You can monitor how far an Aurora Replica is lagging behind the primary instance of your Aurora MySQL DB cluster by monitoring the Amazon CloudWatch ReplicaLag metric. Because Aurora Replicas read from the same cluster volume as the primary instance, the ReplicaLag metric has a different meaning for an Aurora MySQL DB cluster. The ReplicaLag metric for an Aurora Replica indicates the lag for the page cache of the Aurora Replica compared to that of the primary instance. Option A is wrong as there should be any impact on the shopping site performance Option C & D are wrong as there should not be any impact on customer transactions.
 </code></pre>
 </details>
