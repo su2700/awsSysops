@@ -1,6 +1,6 @@
 ## Welcome to Noah's AWS sysops 
 
-```markdown
+
 1.An Aurora cluster is set up for an online shopping site.
 The shopping cart component uses a reader endpoint as its target for displaying the products. 
 A System Administrator finds the ReplicaLag metric is high. What effect would a customer encounter?
@@ -16,7 +16,7 @@ A System Administrator finds the ReplicaLag metric is high. What effect would a 
 
 
 
-```
+
 
 <details>
 <summary>see answer</summary>
