@@ -1,28 +1,16 @@
 ## Welcome to Noah's AWS sysops 
 
 ```markdown
-Syntax highlighted code block
+1.An Aurora cluster is set up for an online shopping site.
+The shopping cart component uses a reader endpoint as its target for displaying the products. A System Administrator finds the ReplicaLag metric is high. What effect would a customer encounter?
 
-# Header 1
-## Header 2
-### Header 3
+1 Online shopping site would be very slow to respond
 
-- Bulleted
-- List
+2 Items in the shopping site may intermittently not reflect the complete shopping list
 
-1. Numbered
-2. List
+3 Customer purchase order request would be delayed
 
-**Bold** and _Italic_ and `Code` text
+4 Customer purchase order request would be slow and may time out 
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-
-
-### Support or Contact
 
