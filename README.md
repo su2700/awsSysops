@@ -1,5 +1,5 @@
 
-```markdown
+
 ## Welcome to Noah's AWS sysops 
 
 
@@ -16,7 +16,6 @@ A System Administrator finds the ReplicaLag metric is high. What effect would a 
 - [] d: Customer purchase order request would be slow and may time out 
 
 
-```
 <details>
 <summary>see answer</summary>
 <pre><code>
