@@ -37,6 +37,9 @@ are wrong as there should not be any impact on customer transactions.
 </code></pre>
 </details>
 
+
+
+
 2.A root account owner has created an S3 bucket testmycloud.
 The account owner wants to allow everyone to upload the objects as well as enforce that 
 the person who uploaded the object should manage the permission of those objects. Which 
