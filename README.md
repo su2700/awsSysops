@@ -7,13 +7,13 @@
 The shopping cart component uses a reader endpoint as its target for displaying the products. 
 A System Administrator finds the ReplicaLag metric is high. What effect would a customer encounter?
 
-- [] a: Online shopping site would be very slow to respond
+- [ ] a: Online shopping site would be very slow to respond
 
-- [] b: Items in the shopping site may intermittently not reflect the complete shopping list
+- [ ] b: Items in the shopping site may intermittently not reflect the complete shopping list
 
-- [] c: Customer purchase order request would be delayed
+- [ ] c: Customer purchase order request would be delayed
 
-- [] d: Customer purchase order request would be slow and may time out 
+- [ ] d: Customer purchase order request would be slow and may time out 
 
 
 <details>
